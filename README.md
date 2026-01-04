@@ -32,7 +32,7 @@
 
 <ul>
 <li>
-  <a href="https://github.com/RashadHagen/How-To-Open-Microsoft-Entra-ID-From-PortaldotAzuredotcom">
+  <a href="https://github.com/RashadHagen/Microsoft-Entra-How-To-Open-Microsoft-Entra-ID-From-PortaldotAzuredotcom/tree/main">
     <strong style="font-family: Arial, sans-serif; font-size: 16px;">Microsoft Entra ID - How To Open Microsoft Entra ID From Portal.Azure.com</strong>
   </a>
   <br/>

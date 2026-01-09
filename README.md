@@ -93,7 +93,7 @@
 <ul>
 <li>
   <a href="https://github.com/RashadHagen/Microsoft-Azure-Management-Groups-Create-A-Custom-RBAC-Role">
-    <strong style="font-family: Arial, sans-serif; font-size: 16px;">MMicrosoft Azure Management Groups – Create A Custom RBAC Role</strong>
+    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Microsoft Azure Management Groups – Create A Custom RBAC Role</strong>
   </a>
   <br/>
 </li>

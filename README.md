@@ -70,6 +70,16 @@
 </ul>
 
 
+<ul>
+<li>
+  <a href="https://github.com/RashadHagen/Microsoft-Entra-ID-Create-A-Management-Group">
+    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Microsoft Entra ID – Create A Management Group</strong>
+  </a>
+  <br/>
+</li>
+</ul>
+
+
 <br />
 
 <strong style="font-family: Arial, sans-serif; font-size: 18px; text-decoration: none; display: block; margin-bottom: 8px;">

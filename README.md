@@ -73,7 +73,7 @@
 <ul>
 <li>
   <a href="https://github.com/RashadHagen/Microsoft-Entra-ID-Create-A-Management-Group">
-    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Microsoft Entra ID – Create A Management Group</strong>
+    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Microsoft Azure Management Group – Create A Management Group</strong>
   </a>
   <br/>
 </li>

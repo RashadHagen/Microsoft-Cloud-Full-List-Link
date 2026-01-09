@@ -100,6 +100,16 @@
 </ul>
 
 
+<ul>
+<li>
+  <a href="https://github.com/RashadHagen/Microsoft-Azure-Management-Groups-Monitor-Role-Assignments-With-Activity-Log">
+    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Microsoft Azure Management Groups – Monitor Role Assignments With Activity Log</strong>
+  </a>
+  <br/>
+</li>
+</ul>
+
+
 <br />
 
 <strong style="font-family: Arial, sans-serif; font-size: 18px; text-decoration: none; display: block; margin-bottom: 8px;">

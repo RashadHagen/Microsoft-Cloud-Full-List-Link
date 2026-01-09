@@ -62,8 +62,8 @@
 
 <ul>
 <li>
-  <a href="https://github.com/RashadHagen/Microsoft-Entra-ID-Implement-Management-Groups">
-    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Microsoft Entra ID – Implement Management Groups</strong>
+  <a href="https://github.com/RashadHagen/Microsoft-Entra-ID-Allow-Access-To-Management-Groups-And-Subscriptions">
+    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Microsoft Entra ID – Allow Access To Management Groups And Subscriptions</strong>
   </a>
   <br/>
 </li>

@@ -109,6 +109,15 @@
 </li>
 </ul>
 
+<ul>
+<li>
+  <a href="https://github.com/RashadHagen/Microsoft-Azure-Resource-Groups-Create-And-Assign-Tags-Via-The-Azure-Portal">
+    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Microsoft Azure Resource Groups – Create And Assign Tags Via The Azure Portal</strong>
+  </a>
+  <br/>
+</li>
+</ul>
+
 
 <br />
 
